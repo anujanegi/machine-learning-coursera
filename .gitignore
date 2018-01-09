@@ -1,0 +1,4 @@
+*/*.pdf
+*/*/token.mat
+*/*/lib
+*.*/octave-workspace
